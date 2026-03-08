@@ -1,0 +1,14 @@
+
+//9. Aim – WAP to print numbers from 1 to 10 using print statements
+
+class counting
+{
+	public static void main(String[] arg)
+	{
+		System.out.println("Way - 1");
+		System.out.println("1, 2, 3, 4, 5, 6, 7, 8, 9, 10");
+
+		System.out.println("Way - 2");
+		System.out.print("1\n2\n3\n4\n5\n6\n7\n8\n9\n10");
+	}
+}
