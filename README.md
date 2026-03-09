@@ -8,3 +8,17 @@ Pls first try for solutions from your side.
 I'll also upload 100+ mid to high level difficulty question in same approach. 
 
 Note - All practive is without Java's OOPs concepts, will create a new repo for OOPs practice questions.
+
+--------------------------------
+java-practice
+│
+├── group1_basic
+├── group2_variables
+├── group3_input
+├── group4_conditions
+├── group5_switch
+├── group6_loops
+├── group7_numbers
+├── group8_patterns
+├── group9_arrays
+└── group10_strings
